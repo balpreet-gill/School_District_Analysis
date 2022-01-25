@@ -1,6 +1,6 @@
 # School_District_Analysis
 ## Overview of the school district analysis
-The purpose of this analysis was to take account of academic dishonesty notified by the school board for Thomas High school and replace the math and reading scores of Thomas High School with NaNs while keeping the rest of the data intact. This, in return will give us the information about new results from analysis based on just 9th to 12th grades scores from Thomas High School while keeping the other schools information the same. 
+The purpose of this analysis was to take account of academic dishonesty notified by the school board for Thomas High school and replace the math and reading scores of Thomas High School 9th graders with NaNs while keeping the rest of the data intact. This, in return will give us the information about new results from analysis based on just 10th to 12th grades scores from Thomas High School while keeping the other schools information the same. 
 
 ## Results
 ### Affect on school summary of Thomas High School analysis
